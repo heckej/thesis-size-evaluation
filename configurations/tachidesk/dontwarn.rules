@@ -1,0 +1,16 @@
+-dontwarn org.apache.logging.log4j.**
+-dontwarn javax.mail.**
+-dontwarn org.pbjar.jxlayer.**
+-dontwarn org.codehaus.mojo.**
+-dontwarn okio.Path
+-dontwarn com.github.weisj.**
+-dontwarn com.kitfox.**
+-dontwarn okhttp3.internal.**
+-dontwarn org.jetbrains.skiko.Library*
+-dontwarn androidx.compose.ui.res.ImageResources_desktopKt
+-dontwarn io.ktor.network.sockets.DatagramSendChannel
+-dontwarn nl.adaptivity.xmlutil.StAXWriter
+-dontwarn org.openjsse.**
+-dontwarn androidx.compose.ui.res.DesktopSvgResources_desktopKt
+-dontwarn androidx.compose.ui.text.platform.DesktopFont_desktopKt
+-dontwarn org.jetbrains.skia.impl.Library**

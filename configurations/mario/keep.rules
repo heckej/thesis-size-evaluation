@@ -1,0 +1,1 @@
+-keepnames,allowshrinking class androidx.compose.ui.focus.FocusRequester

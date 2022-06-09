@@ -1,0 +1,10 @@
+-dontwarn androidx.compose.ui.res.DesktopSvgResources_desktopKt
+-dontwarn androidx.compose.ui.res.ImageResources_desktopKt
+-dontwarn androidx.compose.ui.text.platform.DesktopFont_desktopKt
+-dontwarn okhttp3.OkHttpClient$Builder
+-dontwarn okhttp3.internal.platform.Android10Platform
+-dontwarn okio.DeflaterSink
+-dontwarn okio.Okio
+-dontwarn okio.Okio__JvmOkioKt
+-dontwarn org.jetbrains.skia.impl.Library*
+-dontwarn org.jetbrains.skiko.Library*

@@ -1,0 +1,3 @@
+-keep class org.apache.logging.log4j.** {
+    *;
+}

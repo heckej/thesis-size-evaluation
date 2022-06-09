@@ -1,0 +1,7 @@
+-keepnames class kotlin.jvm.functions.Function1 {
+    *;
+}
+
+-keepclassmembers class androidx.compose.ui.graphics.PainterImage {
+    *;
+}

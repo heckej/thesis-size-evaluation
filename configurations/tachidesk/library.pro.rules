@@ -1,0 +1,2 @@
+-libraryjars <java.home>/jmods/java.xml.jmod(!**.jar;!module-info.class)
+-libraryjars <java.home>/jmods/java.scripting.jmod(!**.jar;!module-info.class)

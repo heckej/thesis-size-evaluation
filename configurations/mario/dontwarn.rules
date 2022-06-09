@@ -1,0 +1,2 @@
+-dontwarn androidx.compose.ui.res.DesktopSvgResources_desktopKt
+-dontwarn androidx.compose.ui.text.platform.DesktopFont_desktopKt

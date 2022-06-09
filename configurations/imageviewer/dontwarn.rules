@@ -1,0 +1,5 @@
+-dontwarn androidx.compose.ui.res.DesktopSvgResources_desktopKt
+-dontwarn androidx.compose.ui.text.platform.DesktopFont_desktopKt
+-dontwarn androidx.compose.ui.res.ImageResources_desktopKt
+-dontwarn org.jetbrains.skia.impl.Library*
+-dontwarn org.jetbrains.skiko.Library*

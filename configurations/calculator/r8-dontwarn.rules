@@ -1,0 +1,7 @@
+-dontwarn java.awt.event.FocusEvent$Cause
+-dontwarn java.awt.image.MultiResolutionImage
+-dontwarn java.lang.ProcessHandle
+-dontwarn java.lang.invoke.StringConcatFactory
+-dontwarn java.lang.ref.Cleaner*
+-dontwarn java.awt.Taskbar
+-dontwarn androidx.compose.desktop.AppWindow

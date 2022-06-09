@@ -1,0 +1,5 @@
+-dontwarn androidx.compose.material.MenuKt
+-dontwarn androidx.compose.runtime.savedinstancestate.RestorableStateHolderImpl*
+-dontwarn androidx.compose.ui.selection.SelectionHandlesKt
+-dontwarn androidx.compose.ui.window.PopupKt*
+

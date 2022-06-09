@@ -1,0 +1,4 @@
+-keep class kotlinx.coroutines.swing.SwingDispatcherFactory {
+    *;
+}
+
